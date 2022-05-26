@@ -1,0 +1,10 @@
+code/output
+eda/input
+eda/output
+eda/wandb
+baseline/*dataset
+baseline/pytorch-segmentation-models-lib
+baseline/uw-madison-gi-tract-image-segmentation
+baseline/wandb
+baseline/*bin
+baseline/*zip
